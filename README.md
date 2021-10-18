@@ -12,3 +12,7 @@ FASE 2
 [Practica Visualización](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/Pr%C3%A1ctica_Visualizaci%C3%B3n.ipynb)  
 [Avance 2 PIA](https://github.com/lluviaeliiza/Mineria-de-Datos/blob/main/Segundo_Avance_PIA.ipynb)  
 [Avance 2 PIA CORREGIDO]( https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/Segundo_Avance_PIA_CORREGIDO.ipynb)
+FASE 3
+[Ej Tecnicas de Mineria](https://github.com/SebastianCanizales/SebastianCan/blob/main/Ej_Tecnicas_Mineria.ipynb)
+
+
