@@ -14,5 +14,5 @@ FASE 2
 [Avance 2 PIA CORREGIDO]( https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/Segundo_Avance_PIA_CORREGIDO.ipynb)
 FASE 3
 [Ej Tecnicas de Mineria](https://github.com/SebastianCanizales/SebastianCan/blob/main/Ej_Tecnicas_Mineria.ipynb)
-
+ 
 
