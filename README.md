@@ -15,7 +15,8 @@ FASE 2
 FASE 3  
 [Ej Tecnicas de Mineria](https://github.com/SebastianCanizales/SebastianCan/blob/main/Ej_Tecnicas_Mineria.ipynb)  
 [Ej. Técnicas de Minería CORREGIDO](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/PREDICCI%C3%93N_DE_INSUFICIENCIA_CARDIACA.ipynb)    
-[Poster](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/POSTER%20MINERIA.pdf)
+[Poster](https://github.com/KatiaOrtiz20/Mineria_de_datos/blob/main/POSTER%20MINERIA.pdf    )  
+[Póster FINAL](
 
  
 
